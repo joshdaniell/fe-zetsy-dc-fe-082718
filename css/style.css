@@ -25,6 +25,7 @@ h1 {
   margin-bottom: 10px;
   font-family: "Baskerville", serif;
   text-decoration: none;
+  cursor: pointer;
 }
 
 h2 {
