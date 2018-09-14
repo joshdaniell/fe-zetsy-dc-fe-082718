@@ -19,7 +19,12 @@ body {
 
 /* Write all remaining styles here */
 
-h1, h2 {
+h1 {
+  color: #879e95;
+  size: 50px;
+}
+
+h2 {
   color: #879e95;
 }
 
